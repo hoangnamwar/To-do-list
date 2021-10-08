@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/To-do-list/static/css/main.f5db930b.chunk.css",
+    "main.js": "/To-do-list/static/js/main.88999140.chunk.js",
+    "main.js.map": "/To-do-list/static/js/main.88999140.chunk.js.map",
+    "runtime-main.js": "/To-do-list/static/js/runtime-main.8d7d0db9.js",
+    "runtime-main.js.map": "/To-do-list/static/js/runtime-main.8d7d0db9.js.map",
+    "static/js/2.50bec0ba.chunk.js": "/To-do-list/static/js/2.50bec0ba.chunk.js",
+    "static/js/2.50bec0ba.chunk.js.map": "/To-do-list/static/js/2.50bec0ba.chunk.js.map",
+    "index.html": "/To-do-list/index.html",
+    "static/css/main.f5db930b.chunk.css.map": "/To-do-list/static/css/main.f5db930b.chunk.css.map",
+    "static/js/2.50bec0ba.chunk.js.LICENSE.txt": "/To-do-list/static/js/2.50bec0ba.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/To-do-list/static/media/bg-desktop-light.3508d620.jpg",
+    "static/media/icon-check.a8fb15d0.svg": "/To-do-list/static/media/icon-check.a8fb15d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7d0db9.js",
+    "static/js/2.50bec0ba.chunk.js",
+    "static/css/main.f5db930b.chunk.css",
+    "static/js/main.88999140.chunk.js"
+  ]
+}
