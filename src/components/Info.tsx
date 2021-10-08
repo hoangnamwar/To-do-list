@@ -10,6 +10,7 @@ const Info = () => {
             <p >
                 Todo App from Hoang Nam. Idea from 
                 <a href="https://frontendmentor-todo-app-react.vercel.app/"> Frontendmentor </a>
+                Sourcode on <a href="https://github.com/hoangnamwar/To-do-list/tree/app"> github </a>
             </p>
         </div>
         

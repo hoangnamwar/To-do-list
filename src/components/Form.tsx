@@ -26,40 +26,6 @@ const Form = () => {
     }
 
     return (
-        // <form
-        //     className={styles.root}
-        //     onSubmit={onSubmit}
-        // >
-        //     <div>
-        //         <button aria-label="Add new item" type="submit"></button>
-        //         <input 
-        //             className={styles.input}
-        //             aria-label="Create a new todo..." 
-        //             type="text" 
-        //             value={text} 
-        //             placeholder="Create a new todo..." 
-        //             onChange={evt => setText(evt.target.value)} 
-        //         />
-        //     </div>
-        // </form>
-        // <div>
-        //     <FormControl 
-        //         className={styles.root}
-        //         >
-        //         <Input
-        //             className={styles.input}
-        //             placeholder="Create a new todo..."
-        //             startAdornment={
-        //                 <InputAdornment 
-        //                     position="start"
-        //                 >
-        //                     <div className={styles.todoItemEmpty}/>
-        //                     {/* <img  src={ IconCheckLogo } alt="Icon" /> */}
-        //                 </InputAdornment>
-        //             }
-        //         />
-        //     </FormControl>
-        // </div>
         <form
             className={styles.root}
             onSubmit={onSubmit}

@@ -1,7 +1,5 @@
-import { useEffect } from "react";
 import { combineReducers } from "redux";
 import showReducer from "./show";
-// import amountReducer from "./amountReducers";
 import todoItemReducer from "./todoItemReducers";
 
 
@@ -10,13 +8,6 @@ const reducers = combineReducers({
     show:showReducer
 });
 
-// useEffect(() => {
-//     localStorage.setItem('data', JSON.stringify(todoItemReducer))
-//   }, [reducers])
-
-// reducers.subscribe(()=>{
-//     localStorage.setItem('data', JSON.stringify(todoItemReducer))
-//   })
 
 export default reducers;
 

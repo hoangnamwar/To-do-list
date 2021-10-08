@@ -7,7 +7,7 @@ import { Action, ActionType } from "../action-type/todoItem";
 // const data = localStorage.getItem('data') ? JSON.parse(localStorage.getItem('data')) : [...dummyData];
 
 let test = localStorage.getItem('data');let testData: DummyDataType;
-if (test == null)
+if (test === null)
 {
     testData = [...dummyData];
 }
